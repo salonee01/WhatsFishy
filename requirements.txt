@@ -1,0 +1,15 @@
+urlexpander==0.0.36
+google_auth_oauthlib==0.4.3
+tldextract==3.1.0
+pandas==1.2.2
+chardet==4.0.0
+requests==2.25.1
+lxml==4.6.2
+numpy==1.18.3
+nltk==3.5
+cchardet==2.1.7
+google_api_python_client==2.0.2
+html5lib==1.1
+protobuf==3.15.6
+PyQt5==5.15.4
+scikit_learn==0.24.1
